@@ -1,4 +1,4 @@
-Hi, I’m Brian Upsher. I'm a self taught programmer and I've been using C++ for about 15 years. 
+Hi, I’m Brian Upsher. I'm a self taught programmer and I've been using C++ for about 15 years though I do not have experience collaborating with other programmers.
 I love videogames and have been looking to get a job in game development. 
 I'm currently working on a derivitive of Yugioh duelist of roses that would use characters from MTG as the basis. 
 I've also recently started working on a mod for Ark: Survival Evolved that would implement pokemon into the game. Craftable pokeballs would be used to catch pokemon (not vanilla creatures) and with the help of the pokemon you have to survive against the beasts of Ark.
